@@ -8,3 +8,7 @@
 
 ## 3. zcl_991_inttables3
 ###Using the instance operator NEW
+
+## 4. zcl_991_inttables4
+###Compared components is identical
+
