@@ -12,3 +12,9 @@
 ## 4. zcl_991_inttables4
 ###Compared components is identical
 
+## 5. zcl_991_inttables_cast
+###CASTING and ELSE UNASSIGN Additions when Specifying Field Symbols as Target Areas
+
+
+
+
